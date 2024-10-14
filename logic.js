@@ -1,2 +1,1 @@
-var heading = document.querySelector("ul").innerHTML;
-heading.innerHTML = "ANanya"
+document.querySelector(".btn").style.color="red";
