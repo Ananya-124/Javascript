@@ -1,1 +1,1 @@
-document.querySelector(".btn").style.color="red";
+document.querySelector("h1").classList.add("huge");
