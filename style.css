@@ -1,50 +1,31 @@
-body {
-  background-color: rgb(118, 110, 110);
-}
-.container {
-  margin: auto;
-  text-align: center;
-  
+body{
+  background-color: brown;
 }
 
-img {
-  width: 200px;
-  height: 200px;
+body > form{
+  margin-left: 190px;
+  padding-left: 30px;
+  background-color: blanchedalmond;
+  margin-top: 100px;
+  padding-top: 20px;
+  width: 1100px;
+  height: 300px;
+  border: 2px dashed black;
+  color: blueviolet;
+  font-size: 1rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 900;
 }
-h1 {
-  color: rgb(100, 159, 12);
-  font-family: cursive;
+h1{
+  color: blue;
+  display: inline;
+  background-color: aqua;
   font-size: 5rem;
   font-weight: bold;
   text-align: center;
+  margin-left: 190px;
+  border: 2px solid transparent;
+  padding-top: 50px;
 }
-.dice {
-  text-align: center;
-  display: inline-block;
-  color: rgb(11, 38, 188);
-  font-size: 3rem;
-  font-weight: 700;
-  font-family: fantasy;
-}
-.box2 {
-  text-align: center;
-  display:inline-block;
-  margin-left: 40px;
-  color: rgb(11, 38, 188);
-  font-size: 3rem;
-  font-weight: 700;
-  font-family: fantasy;
-}
-footer {
-  font-size: 2rem;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-  font-weight: 600;
-  color: blue;
-  text-align: center;
-}
-.main2{
-    display: inline-block;
-    
 
-}
+
