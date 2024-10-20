@@ -1,3 +1,14 @@
 body{
     background-color: blue;
 }
+.pressed{
+    color: red;
+    font-size: medium;
+    opacity: 3;
+    font-family: cursive;
+    background-color: rgb(243, 223, 8);
+    border-radius: 40%;
+    border: 2px solid black;
+
+    
+}
