@@ -12,3 +12,10 @@ body{
 
     
 }
+button{
+    background-color: chartreuse;
+}
+a{
+    color: white;
+    background-color: red;
+}
